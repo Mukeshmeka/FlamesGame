@@ -1,0 +1,45 @@
+.background{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehoKv7ErzviAcRpzI66XW85UC3CpsPn2-hA&s");
+    background-size: cover;
+    height: 100vh;
+    width:100vw;
+    margin: 0;
+    background-position: center;
+}
+
+
+
+
+.heading{
+    font-weight:bold;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+
+    color: rgb(249, 202, 248);
+}
+.input{
+    height: 50px;
+    width: 200px;
+    background-color: bisque;
+    margin-top: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+.button{
+    background-color: rgb(255, 88, 121);
+    height: 50px;
+    border-radius: 8px;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    justify-content: center;
+    margin-top: 50px;
+}
+.result{
+    font-style: oblique;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    margin-top: 150px;
+}
